@@ -14,5 +14,9 @@
   "devDependencies": {
     "concurrently": "2.2.0",
     "live-server": "https://github.com/acco/live-server/tarball/master"
+  },
+  "dependencies": {
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.1.2"
   }
 }
